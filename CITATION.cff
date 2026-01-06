@@ -1,0 +1,17 @@
+
+cff-version: 1.2.0
+title: "FER-FHIA — Blindaje jurídico-epistemológico (línea v1)"
+message: "If you use this work, please cite this specific version."
+type: dataset
+authors:
+  - family-names: Roiz
+    given-names: Fabian
+version: 1.1.1
+date-released: 2026-01-05
+license: CC-BY-SA-4.0
+repository-code: https://github.com/fabianroiz1040-boop/el-secuestro-del-saber
+abstract: >
+  Línea v1 del Framework Epistemológico-Responsable FHIA (FER-FHIA),
+  correspondiente a la versión fundacional y de mantenimiento del proyecto
+  El secuestro del saber. Esta línea se mantiene estable, cit-able y sin
+  rupturas conceptuales, destinada a preservación académica y trazabilidad.
